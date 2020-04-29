@@ -23,7 +23,7 @@
 ** Better organized power off / logout section in the user menu
 ** Most password dialogs now have the option to reveal the password by clicking the "eye" icon
 ** App folders in the application overview can now be renamed
-** GNOME Settings sections have been rearranved for easier navigation
+** GNOME Settings sections have been rearranged for easier navigation
 ** The privacy section now lists applications that have been granted permission to access location services, camera and microphone. Access can be revoked on a per-app basis.
 ** The user and about sections both received an interface redesign. Both are more explicit in their presentation of information, and make changing settings easier.
 
