@@ -4,6 +4,8 @@
 ** Close Window is now Super + Q
 ** Toggle Maximize is now Super + M
 
+* Dark mode is enabled by default. Go to Appearance in Settings to change between light and dark mode.
+
 * Automatic Window Tiling: To activate tiling mode, click the tiling menu icon at the top right of the screen and toggle on Tile Windows. Open and newly launched windows will be automatically tiled. Toggling off Tile Windows will revert to floating mode.
 
 * New Application Switcher and Launcher:  Type `Super` + `/` to activate the new application switcher and launcher. Instead of `Super` + `Tabbing` through application icons, simply type `Super` + `/` and start typing the name of the application you want to switch to or launch.
